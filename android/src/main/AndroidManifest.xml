@@ -1,5 +1,5 @@
 
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="io.stewan.capacitor-firebase-phone-auth.capacitorfirebasephoneauth">
+      package="io.stewan.capacitor-phone-auth.capacitorphoneauth">
   </manifest>
   

@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-firebase-phone-auth",
+  "name": "capacitor-phone-auth",
   "version": "0.0.1",
   "description": "Enable Firebase phone authentication using Capacitor",
   "main": "dist/esm/index.js",
@@ -24,7 +24,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorFirebasePhoneAuth.podspec"
+    "CapacitorPhoneAuth.podspec"
   ],
   "keywords": [
     "capacitor",
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stewwan/capacitor-firebase-phone-auth"
+    "url": "https://github.com/stewwan/capacitor-phone-auth"
   },
   "bugs": {
-    "url": "https://github.com/stewwan/capacitor-firebase-phone-auth/issues"
+    "url": "https://github.com/stewwan/capacitor-phone-auth/issues"
   }
 }

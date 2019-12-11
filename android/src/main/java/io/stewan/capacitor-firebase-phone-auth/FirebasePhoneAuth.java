@@ -1,4 +1,4 @@
-package io.stewan.capacitor-firebase-phone-auth;
+package io.stewan.capacitor-phone-auth;
 
 import com.getcapacitor.JSObject;
 import com.getcapacitor.NativePlugin;
