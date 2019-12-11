@@ -25,8 +25,8 @@ public class FirebasePhoneAuth: CAPPlugin {
     
     PhoneAuthProvider.provider().verifyPhoneNumber(phoneNumber, uiDelegate: nil) { (verificationID, error) in
       if let error = error {
-        print(error)
-        call.error("error while trying to verify phone number")
+        print(error.localizedDescription)
+        call.error(error.localizedDescription)
         return
       }
       
